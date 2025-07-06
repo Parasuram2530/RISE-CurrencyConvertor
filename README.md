@@ -16,6 +16,5 @@ This is a simple GUI-based **Currency Converter** application built using **Pyth
 
 ## 🖼️ GUI Preview
 
-> _(Add a screenshot here if you uploaded an image to GitHub, like `assets/demo.png`)_
-```md
-![App Screenshot](https://github.com/<username>/<repo>/blob/main/assets/demo.png?raw=true)
+![Screenshot (97)](https://github.com/user-attachments/assets/1b7cf732-5081-45b9-b036-85f195c51dbf)
+
